@@ -1,0 +1,19 @@
+{
+  "name": "exercise-21.6",
+  "version": "1.0.0",
+  "description": "MongoDB Mongoose",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "MongoDB",
+    "Mongoose"
+  ],
+  "author": "Krzysztof Śliwiński",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.0.9"
+  }
+}
